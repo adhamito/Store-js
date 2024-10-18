@@ -6,7 +6,7 @@ import { Container } from "react-bootstrap";
 function BasicExample() {
   return (
     <Card className="border-0">
-      <Card.Img src={Bg} alt="Card image" />
+     
       <Card.ImgOverlay>
         <Container className="   my-4">
           <Card.Title className="display-1 fw-bold text-white py-4">
