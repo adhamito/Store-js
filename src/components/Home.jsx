@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import Bg from "../assets/bg.jpg";
 import Products from "./Products";
 import { Container } from "react-bootstrap";
 
